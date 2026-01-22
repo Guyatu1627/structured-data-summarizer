@@ -1,0 +1,8 @@
+user_id,age,country,signup_date
+1,25, USA,2021-01-15
+2,,Canada,2020-05-20
+3,-5,UK,2021-03-30
+4,30, ,2020-10-10
+5,,USA,stale_date
+6,150,Australia,2021-06-01
+7,45,UK,2020-11-11 

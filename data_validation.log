@@ -1,0 +1,5 @@
+2026-01-22 14:03:09,516:WARNING:Invalid age found at index 1: nan
+2026-01-22 14:03:09,516:WARNING:Invalid age found at index 2: -5.0
+2026-01-22 14:03:09,516:WARNING:Invalid age found at index 4: nan
+2026-01-22 14:03:09,516:WARNING:Invalid age found at index 5: 150.0
+2026-01-22 14:03:09,529:INFO:Results output successfully.

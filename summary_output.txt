@@ -1,0 +1,3 @@
+Total Valid Users: 3
+Users Per Country: {' USA': 1, ' ': 1, 'UK': 1}
+Average Age: 33.333333333333336
