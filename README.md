@@ -26,7 +26,7 @@ A CSV file named `users.csv` containing columns: user\_id, age, country, signup\
 
 
 
-\## Assumptions
+## Assumptions
 
 \- Ages must be valid numbers between 0 and 120.
 
